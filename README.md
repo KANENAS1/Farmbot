@@ -2,7 +2,7 @@
 
 **A professional-grade, modular agricultural automation platform built on ESP32 microcontrollers with WiFi-based inter-module communication.**
 
-Developed by **Kanenas** - Instructor, Electrical Systems Technology - Mechatronics Program  
+Developed by **Demetri Cherpelis** - Instructor, Electrical Systems Technology - Mechatronics Program  
 Lincoln Technical Institute, Queens, NY
 
 ---
