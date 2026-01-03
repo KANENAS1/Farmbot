@@ -591,28 +591,28 @@ This project was developed as part of the **Electrical Systems Technology - Mech
 
 This is an educational open-source project. Contributions are welcome!
 
-### How to Contribute:
+How to Contribute:
 
-**For Students:**
+For Students:
 1. Build a new worker module
 2. Document your design process
 3. Submit pull request with code + documentation
 4. Present at student showcase
 
-**For Educators:**
+For Educators:
 1. Create lab exercises
 2. Develop assessment materials
 3. Share classroom implementation strategies
 4. Contribute to curriculum guide
 
-**For Developers:**
+For Developers:
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-### Contribution Guidelines:
+Contribution Guidelines:
 - Follow existing code style and structure
 - Include comprehensive comments
 - Test on actual hardware before submitting
@@ -630,9 +630,9 @@ This is an educational open-source project. Contributions are welcome!
 
 ---
 
-## 📄 License
+📄 License
 
-**MIT License**
+MIT License
 
 Copyright (c) 2025 Kanenas - Lincoln Technical Institute
 
@@ -658,25 +658,25 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-**Kanenas**  
-Instructor, Electrical Systems Technology - Mechatronics Program  
+Demetri Cherpelis - Kanenas  DCherpels@lincolntech.edu
+Instructor, Electrical Systems Technology - 
 Lincoln Technical Institute  
 Queens, New York
 
-**Project Repository**: [GitHub Link]  
-**Issues & Bug Reports**: [GitHub Issues]  
-**Discussions**: [GitHub Discussions]  
+Project Repository: [GitHub Link]  
+Issues & Bug Reports: [GitHub Issues]  
+Discussions: [GitHub Discussions]  
 
-### Acknowledgments:
+Acknowledgments:
 - Lincoln Technical Institute for supporting innovative curriculum development
-- Students who tested and provided feedback on the system
+- The few Students who tested and provided feedback on the system
 - Open-source community for excellent libraries and tools
 
 ---
 
 ## ⚠️ Safety Disclaimers
 
-**IMPORTANT SAFETY INFORMATION:**
+**IMPORTANT SAFETY INFORMATION:
 
 ⚠️ **Laser Safety**: High-power lasers can cause permanent eye damage and fire hazards. Always use:
 - Proper laser safety goggles rated for your laser wavelength
@@ -702,7 +702,7 @@ Queens, New York
 - Proper guarding on pinch points
 - Never bypass safety interlocks
 
-**This system is intended for educational and research purposes. Users assume all responsibility for safe operation.**
+*This system is intended for educational and research purposes. Users assume all responsibility for safe operation.
 
 ---
 
@@ -714,6 +714,6 @@ If this project helps you or your students, please consider giving it a ⭐!
 
 ---
 
-**Built with ❤️ for agricultural innovation and hands-on education**
+Built with ❤️ for agricultural innovation and hands-on education
 
-*Last Updated: January 2025*
+Last Updated: January 2026
