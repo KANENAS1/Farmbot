@@ -191,9 +191,9 @@ Status LEDs:
 
 ---
 
-## 💻 Software Requirements
+💻 Software Requirements
 
-### Arduino IDE Setup:
+Arduino IDE Setup:
 1. **Arduino IDE 2.x** or higher
 2. **ESP32 Board Support**:
    - Add to Board Manager URLs: `https://dl.espressif.com/dl/package_esp32_index.json`
@@ -201,7 +201,7 @@ Status LEDs:
    - Board: **ESP32 Dev Module**
    - **CRITICAL**: Use **ESP32 Core 2.x.x** (NOT 3.x.x for this version)
 
-### Required Libraries:
+Required Libraries:
 Install via Arduino Library Manager:
 - **WiFi** (built-in with ESP32)
 - **WebServer** (built-in with ESP32)
@@ -209,7 +209,7 @@ Install via Arduino Library Manager:
 - **ArduinoJson** by Benoit Blanchon (v6.21.0+)
 - **HTTPClient** (built-in with ESP32)
 
-### Optional (for SD logging):
+Optional (for SD logging):
 - **SD** (built-in)
 - **SPI** (built-in)
 
@@ -458,21 +458,21 @@ Sketch → Upload
 
 ---
 
-## ⏱️ Development Timeline
+# ⏱️ Development Timeline
 
-### Project Duration: ~120 Hours (3 weeks intensive development)
+# Project 
 
-**Week 1: Architecture & Core Systems (40 hours)**
+Week 1: Architecture & Core Systems 
 - Day 1-2: System architecture design, protocol definition (16h)
 - Day 3-4: Master Hub development and testing (12h)
 - Day 5-6: Worker template and WiFi communication (12h)
 
-**Week 2: Worker Implementation (50 hours)**
+Week 2: Worker Implementation 
 - Day 1-2: Stepper laser worker development (16h)
 - Day 3-4: Galvo laser worker development (20h)
 - Day 5-6: Safety systems and interlocks (14h)
 
-**Week 3: Integration & Documentation (30 hours)**
+Week 3: Integration & Documentation 
 - Day 1-2: System integration testing (10h)
 - Day 3-4: Web UI refinement (8h)
 - Day 5: Documentation and GitHub preparation (12h)
@@ -663,9 +663,9 @@ Instructor, Electrical Systems Technology -
 Lincoln Technical Institute  
 Queens, New York
 
-Project Repository: [GitHub Link]  
-Issues & Bug Reports: [GitHub Issues]  
-Discussions: [GitHub Discussions]  
+Project Repository: [[GitHub Link]  ](https://github.com/KANENAS1/Farmbot/tree/main)
+Issues & Bug Reports: [DCherpelis@lincolntech.edu]  
+Discussions: [N/A]  
 
 Acknowledgments:
 - Lincoln Technical Institute for supporting innovative curriculum development
